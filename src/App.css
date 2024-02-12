@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.default-style {
+  background-color: #FDFCF9;
+  color: #2F303A;
+  font-family: 'El Messiri', serif;
+}

@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  document.body.classList.add('default-style');
   return (
-    <div className="App">
-      <h1>Hello!</h1>
+    <div className="container">
+      <h1>Macee Qi</h1>
     </div>
   );
 }
