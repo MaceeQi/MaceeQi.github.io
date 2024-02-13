@@ -11,10 +11,10 @@ function App() {
     return (
         <HashRouter basename="/">
             <div className="container">
-                {/* Nav Bar */}
+                {/* Header */}
                 <NavigationBar/>    
 
-                {/* Main Component */}
+                {/* Components */}
                 <Routes>
                     <Route path="/" element={<HomeComponent/>}/>
                     <Route path="/about" element={<AboutComponent/>}/>
