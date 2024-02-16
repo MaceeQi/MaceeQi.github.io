@@ -7,7 +7,7 @@ import ProjectsComponent from './components/projects';
 import ExperienceComponent from './components/experience';
 
 function App() {
-    document.body.classList.add('default-style');
+    document.body.classList.add('mq-default-style');
     return (
         <HashRouter basename="/">
             <div className="container">

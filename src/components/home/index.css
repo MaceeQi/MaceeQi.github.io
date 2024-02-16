@@ -1,0 +1,81 @@
+.mq-fg-default {
+    color: #2F303A;
+}
+
+.mq-border {
+    border-style: solid;
+    border-color: #F4F3F1;
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+.mq-purple {
+    color: #d4c6f8;
+}
+
+.mq-green {
+    color: #bde392;
+}
+
+.mq-pink {
+    color: #fab1aa;
+}
+
+.mq-blue {
+    color: #ace6e6;
+}
+
+.mq-scale-1 {
+    scale: 1.1;
+}
+
+.mq-scale-2 {
+    scale: 1.2;
+}
+
+/* Bouncing icons on hover */
+#social-icons a:hover {
+    animation: bounce 1.45s infinite;
+    -webkit-animation: bounce 1.45s infinite; 
+    -moz-animation: bounce 1.45s infinite; 
+    -o-animation: bounce 1.45s infinite; 
+}
+
+/* Animations for social media icons */
+@-webkit-keyframes bounce {
+    0%,  
+    100% {
+       -webkit-transform: translateY(2px);
+    } 
+    50% {
+        -webkit-transform: translateY(-7px);
+    }
+}
+@-moz-keyframes bounce {
+    0%, 
+    100% {
+       -moz-transform: translateY(2px);
+    }
+    50% {
+        -moz-transform: translateY(-7px);
+    }
+}
+@-o-keyframes bounce {
+    0%,
+    100% {
+       -o-transform: translateY(2px);
+    }
+    50% {
+        -o-transform: translateY(-7px);
+    }
+}
+@keyframes bounce {
+    0%,  
+    100% {
+        transform: translateY(2px);
+    }
+    50% {
+        transform: translateY(-7px);
+    }
+}
+
