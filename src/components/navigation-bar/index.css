@@ -1,0 +1,16 @@
+.nav-pills .nav-link:not(.active) {
+    color: #2F303A;
+}
+
+.nav-pills .nav-link > .active {
+    color: #BAA17D;
+    font-weight: bold;
+    background: transparent;
+    border-bottom: solid 3px #BAA17D;
+    border-radius: 0%;
+}
+
+.nav-pills .nav-link:hover {
+    color: #BAA17D;
+    background: transparent;
+}
