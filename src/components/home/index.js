@@ -16,16 +16,15 @@ const HomeComponent = () => {
                         <h1>
                             Hi, I'm Macee!
                         </h1>
-                        <h4>
-                            Welcome 
-                        </h4>
-                        <h4>
-                            More description here
-                        </h4>
+                        <br/>
+                        <h3>
+                            Learn more about me, my projects, and my interests.
+                        </h3>
                     </div>
 
                     {/* Social media icons/links */}
-                    <div id="social-icons" className="d-flex justify-content-center fs-1">
+                    <div id="social-icons" 
+                         className="d-flex justify-content-center fs-1">
                         {/* LinkedIn */}
                         <a href="https://www.linkedin.com/in/macee-qi/"
                            className="mq-fg-default p-3 mq-blue">
