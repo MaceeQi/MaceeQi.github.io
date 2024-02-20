@@ -12,14 +12,23 @@ const HomeComponent = () => {
                 <div className="col-12 col-md-10 col-lg-8 col-xl-6 mt-5 mb-5 pt-3 ps-3 pe-3
                                 mq-border d-flex flex-column justify-content-between">
                     {/* Intro/welcome */}
-                    <div className="d-flex flex-column align-items-center">
+                    <div className="d-flex flex-column align-items-center text-center">
                         <h1>
                             Hi, I'm Macee!
                         </h1>
                         <br/>
-                        <h3>
-                            Learn more about me, my projects, and my interests.
-                        </h3>
+                        <h4>
+                            Welcome to my little corner of the internet. 
+                            I'm excited to share more about me, my projects, and my interests.
+                        </h4>
+                        {/* <h4>
+                            I recently graduated with a Master's degree in Computer Science 
+                            from Northeastern University.
+                        </h4> */}
+                        {/* <br/> */}
+                        {/* <h4>
+                            I'm excited to share more about me, my projects, and my interests!
+                        </h4> */}
                     </div>
 
                     {/* Social media icons/links */}
