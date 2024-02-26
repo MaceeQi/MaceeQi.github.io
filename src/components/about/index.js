@@ -1,5 +1,6 @@
 import {HashLink} from "react-router-hash-link";
 import AboutMeComponent from "./about-me";
+import CertificationsComponent from "./certifications";
 import EducationComponent from "./education";
 import "./index.css";
 import PublicationsComponent from "./publications";
@@ -65,9 +66,7 @@ const AboutComponent = () => {
 
                     {/* Certifications section */}
                     <div id="certifications" className="mt-5">
-                        <h2>
-                            Certifications
-                        </h2>
+                        <CertificationsComponent/>
                     </div>
 
                     {/* Publications section */}

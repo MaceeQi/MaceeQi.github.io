@@ -3,7 +3,17 @@
     text-decoration: none;
 }
 
-.mq-neu-logo {
+.mq-logo {
     width: 100px;
     height: 100px;
+}
+
+.mq-link {
+    color: #2F303A;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+}
+
+.mq-mb-1 {
+    margin-bottom: -1px;
 }

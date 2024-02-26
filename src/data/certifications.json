@@ -1,0 +1,61 @@
+[
+    {
+        "title": "Lyft - Back-End Engineering",
+        "logo": "lyft.jpg",
+        "issuer": "Forage - Lyft Virtual Experience Program",
+        "issueDate": "Jan 2024",
+        "credential": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Lyft/xSw9echtixLAoPdsH_Lyft_nyMZfbS3qCF4WKiey_1705603088176_completion_certificate.pdf",
+        "skills": ["Python", "Refactoring", "Software Architecture", "Unit Testing", 
+                    "Test-Driven Development", "Unified Modeling Language (UML)"]
+    },
+    {
+        "title": "Process Improvement Foundations",
+        "logo": "linkedin.jpg",
+        "issuer": "LinkedIn Learning",
+        "issueDate": "Jan 2024",
+        "credential": "https://www.linkedin.com/learning/certificates/3b832b9a2a6f0008decd040e581e3c1a0a44c7a477c9a104dd992ae987a669ab?u=74653650",
+        "skills": ["Business Process Improvement"]
+    },
+    {
+        "title": "Intro to iOS Development",
+        "logo": "codepath.jpg",
+        "issuer": "CodePath",
+        "issueDate": "Nov 2023",
+        "credential": "https://drive.google.com/file/d/1IgpaQONYCDBgRiEDBQ0Z3AIntw3SSU6E/view",
+        "skills": ["Swift", "Xcode", "iOS Development"]
+    },
+    {
+        "title": "AWS Academy Cloud Architecting",
+        "logo": "aws.jpg",
+        "issuer": "AWS Academy",
+        "issueDate": "Aug 2023",
+        "credential": "https://www.credly.com/badges/541c0afa-9c40-4516-ac52-6d8c3127fbaf/public_url",
+        "skills": ["Architecting Solutions on AWS", "AWS Cloud Best Practices", "Building Infrastructure on AWS"]
+    },
+    {
+        "title": "Advanced Technical Interview Prep",
+        "logo": "codepath.jpg",
+        "issuer": "CodePath",
+        "issueDate": "Aug 2023",
+        "credential": "https://drive.google.com/file/d/1R73b9kcTwC_duXAOUmtSmWPd_maYbtNR/view",
+        "skills": ["UMPIRE Problem Solving", "Classic Algorithms", "Runtime Complexity", "Patterns", 
+            "Data Structures", "Recursion and Combinations"]
+    }, 
+    {
+        "title": "Trained Mentor",
+        "logo": "mentorcollective.jpg",
+        "issuer": "Mentor Collective",
+        "issueDate": "Jul 2022",
+        "credential": "https://learning.mentorcollective.org/certificates/0fvek9ggac",
+        "skills": []
+    }, 
+    {
+        "title": "Certified Degree in Biochemistry and Molecular Biology",
+        "logo": "asbmb.jpg",
+        "issuer": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+        "issueDate": "Sep 2018",
+        "credential": "https://www.asbmb.org/education/certification-exam",
+        "skills": []
+    }
+]
+    

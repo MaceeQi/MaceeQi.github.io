@@ -21,14 +21,6 @@ const HomeComponent = () => {
                             Happy to have you here. 
                             I'm excited to share more about me, my projects, and my interests.
                         </h4>
-                        {/* <h4>
-                            I recently graduated with a Master's degree in Computer Science 
-                            from Northeastern University.
-                        </h4> */}
-                        {/* <br/> */}
-                        {/* <h4>
-                            I'm excited to share more about me, my projects, and my interests!
-                        </h4> */}
                     </div>
 
                     {/* Social media icons/links */}
