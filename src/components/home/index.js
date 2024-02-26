@@ -18,7 +18,7 @@ const HomeComponent = () => {
                         </h1>
                         <br/>
                         <h4>
-                            Welcome to my little corner of the internet. 
+                            Happy to have you here. 
                             I'm excited to share more about me, my projects, and my interests.
                         </h4>
                         {/* <h4>

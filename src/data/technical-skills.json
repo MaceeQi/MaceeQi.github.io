@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Programming Languages",
+        "skills": ["Python", "Java", "JavaScript/TypeScript", "HTML/CSS", "SQL", "Swift", "C"]
+    },
+    {
+        "category": "Database Systems",
+        "skills": ["MySQL", "MongoDB", "Firebase Realtime Database"]
+    },
+    {
+        "category": "Frameworks/Tools/Technologies",
+        "skills": ["Git", "Agile Scrum", "Node.js", "React.js", "Express.js", "Bootstrap",
+                   "RESTful API", "Heroku", "AWS", "Figma", "Postman", "Linux", "JUnit", "JIRA"]
+    }
+]
+    
