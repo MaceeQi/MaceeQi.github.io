@@ -29,32 +29,6 @@ const SkillsComponent = () => {
                         </div>
                     )
                 }
-
-                {/* Programming languages
-                <span className="fw-bold">
-                    Programming Languages: 
-                </span>
-                <span className="ms-2">
-                    Python, Java, JavaScript/TypeScript, HTML/CSS, SQL, Swift, C
-                </span>
-                <br/>
-
-                {/* Databases */}
-                {/* <span className="fw-bold">
-                    Database Systems: 
-                </span>
-                <span className="ms-2">
-                    MySQL, MongoDB, Firebase Realtime Database
-                </span>
-                <br/> */}
-
-                {/* Frameworks/Tools/Technologies */}
-                {/* <span className="fw-bold">
-                    Programming Languages: 
-                </span>
-                <span className="ms-2">
-                    Python, Java, JavaScript/TypeScript, HTML/CSS, SQL, Swift, C
-                </span> */}
             </div>
         </>
     );

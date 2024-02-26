@@ -2,6 +2,7 @@ import {HashLink} from "react-router-hash-link";
 import AboutMeComponent from "./about-me";
 import EducationComponent from "./education";
 import "./index.css";
+import PublicationsComponent from "./publications";
 import SkillsComponent from "./skills";
 
 const AboutComponent = () => {
@@ -72,7 +73,7 @@ const AboutComponent = () => {
                     {/* Publications section */}
                     <div id="publications" className="mt-5">
                         <h2>
-                            Publications
+                            <PublicationsComponent/>
                         </h2>
                     </div>
 
