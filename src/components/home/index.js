@@ -21,6 +21,10 @@ const HomeComponent = () => {
                             Happy to have you here. 
                             I'm excited to share more about me, my projects, and my interests.
                         </h4>
+                        <br/>
+                        <h4>
+                            Have more questions or want to learn more? I'd love to connect!
+                        </h4>
                     </div>
 
                     {/* Social media icons/links */}
