@@ -39,11 +39,11 @@ const AboutComponent = () => {
                                 Publications
                             </div>
                         </HashLink>
-                        <HashLink to="#community-involvement" className="mq-default-text">
+                        {/* <HashLink to="#community-involvement" className="mq-default-text">
                             <div className="mb-3">
                                 Community Involvement
                             </div>
-                        </HashLink>
+                        </HashLink> */}
                     </div>
                 </div>
 
@@ -77,11 +77,11 @@ const AboutComponent = () => {
                     </div>
 
                     {/* Community involvement section */}
-                    <div id="community-involvement" className="mt-5">
+                    {/* <div id="community-involvement" className="mt-5">
                         <h2>
                             Community Involvement
                         </h2>
-                    </div>
+                    </div> */}
                 </div>  
             </div>
         </>
