@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Sample 1",
+        "image": "neu.jpg",
+        "about": "This is sample project 1",
+        "tech": ["JavaScript"],
+        "github": "www.github.com/MaceeQi",
+        "youtube": "www.youtube.com"
+    },
+    {
+        "name": "Sample 2",
+        "image": "aws.jpg",
+        "about": "This is sample project 2",
+        "tech": ["Python", "React.js"],
+        "github": "www.github.com/MaceeQi",
+        "youtube": "www.youtube.com"
+    }
+]

@@ -1,0 +1,9 @@
+.mq-project-image {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+}
+
+.mq-default-fg {
+    color: #2F303A;
+}
