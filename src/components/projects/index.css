@@ -1,9 +1,13 @@
 .mq-project-image {
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     object-fit: contain;
 }
 
 .mq-default-fg {
     color: #2F303A;
+}
+
+.mq-underline {
+    text-decoration-thickness: 1px;
 }

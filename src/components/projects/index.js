@@ -8,7 +8,7 @@ const ProjectsComponent = () => {
                 projects.map((project, index) => {
                     return (
                         <div className={`d-flex ${index % 2 == 0 ? "flex-row" : "flex-row-reverse"} 
-                                         mt-4 p-4 align-items-center`}>
+                                         mt-4 mb-4 p-4 align-items-center`}>
                             {/* Project image */}
                             <div>
                                 <img src={`/images/${project.image}`}
@@ -18,13 +18,17 @@ const ProjectsComponent = () => {
                             {/* Project info */}
                             <div className="ms-5 flex-fill">
                                 {/* title */}
-                                <h2 className="fw-bold text-center">{project.name}</h2>
+                                <h3 className="fw-bold text-center">
+                                    {project.name}
+                                </h3>
                                 
                                 {/* description */}
-                                <p className="fs-5 fw-medium">{project.about}</p>
+                                <p className="fs-5 fw-medium mt-4">
+                                    {project.about}
+                                </p>
                                 
                                 {/* tech stack */}
-                                <h5>Tech stack:</h5>
+                                <h5>Technology/Skills:</h5>
                                 <ul>
                                     {
                                         project.tech.map(tech => 
@@ -34,15 +38,16 @@ const ProjectsComponent = () => {
                                 </ul>
 
                                 {/* links */}
-                                <div className="d-flex justify-content-center fs-1">
-                                    {/* github repo */}
-                                    <a href={project.github} className="m-2 mq-default-fg">
-                                        <i className="bi bi-github"></i>
+                                <div className="d-flex justify-content-center align-items-center">
+                                    {/* demo */}
+                                    <a href={project.demo} className="fs-4 m-3 mq-default-fg mq-underline">
+                                        {/* <i className="bi bi-youtube"></i> */}
+                                        Demo
                                     </a>
-                                
-                                    {/* demo video */}
-                                    <a href={project.youtube} className="m-2 mq-default-fg">
-                                        <i className="bi bi-youtube"></i>
+                                    
+                                    {/* github repo */}
+                                    <a href={project.github} className="fs-2 m-3 mq-default-fg">
+                                        <i className="bi bi-github"></i>
                                     </a>
                                 </div>
                             </div>
