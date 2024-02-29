@@ -4,12 +4,13 @@
         "image": "ai-image-classification.jpg",
         "about": "Foundations of AI - Image Classification [description]",
         "tech": ["Python", "Logistic Regression", "Multi-Layer Perceptron (MLP)",
-            "Artificial Intelligence", "Supervised Learning", "Datasets"],
+            "Artificial Intelligence", "Supervised Learning", "Image Classification", 
+            "Datasets"],
         "github": "https://github.com/MaceeQi/cs5100-project",
         "demo": "https://drive.google.com/file/d/1LxWq4plrcRpMKpUfcq1WPBZ_mTvAnNBG/view?usp=sharing"
     },
     {
-        "name": "Synthesis App",
+        "name": "Synthesis Mobile App",
         "image": "synthesis.jpg",
         "about": "iOS Development - Synthesis App [description]",
         "tech": ["Swift", "Xcode", "iOS Development"],
@@ -18,17 +19,18 @@
     },
     {
         "name": "Jade Palace Restaurant & Lounge Website",
-        "image": "",
+        "image": "jadepalace2.jpg",
         "about": "Personal - JP Website [description]",
-        "tech": ["React.js", "Web Development"],
+        "tech": ["JavaScript", "React.js", "HTML", "CSS", "Bootstrap", 
+            "Web Development", "Single Page Application"],
         "github": "https://github.com/MaceeQi/jpwebsite-react-web-app",
         "demo": ""
     },
     {
-        "name": "GoalForIt! App",
+        "name": "GoalForIt! Mobile App",
         "image": "",
         "about": "Mobile App Development - GoalForIt! App [description]",
-        "tech": ["Android"],
+        "tech": ["Java", "Android", "Firebase Realtime Database", "Figma"],
         "github": "https://github.com/MaceeQi/NUMAD23Sp_Team16",
         "demo": ""
     },
@@ -36,7 +38,7 @@
         "name": "Community Rental Database",
         "image": "",
         "about": "DBMS - Community Rental Database [description]",
-        "tech": ["SQL", "Python"],
+        "tech": ["SQL", "Python", "Database Schema", "Database Programming Objects (DPO)"],
         "github": "https://github.com/MaceeQi/community-rental",
         "demo": ""
     },
@@ -44,7 +46,9 @@
         "name": "RecipeFridge Web App",
         "image": "",
         "about": "Web Dev - RecipeFridge Web App [description]",
-        "tech": ["Third-Party API"],
+        "tech": ["JavaScript", "HTML", "CSS", "React.js", "Bootstrap", "Node.js", 
+            "Express.js", "MongoDB", "RESTful API", "Third-Party API", "Postman", 
+            "Figma", "Full-Stack", "Single Page Application"],
         "github": "https://github.com/MaceeQi/RecipeFridge-node-server-app",
         "demo": ""
     },
@@ -52,7 +56,9 @@
         "name": "Tuiter Web App",
         "image": "",
         "about": "FSE - Tuiter Web App [description]",
-        "tech": ["Software Engineering", "JIRA", "Agile Scrum"],
+        "tech": ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", 
+            "RESTful API", "Postman", "Figma", "Software Engineering", "JIRA", 
+            "Agile Scrum"],
         "github": "https://github.com/MaceeQi/fse-final-project-node",
         "demo": ""
     },
@@ -68,7 +74,8 @@
         "name": "Shapes Photo Album",
         "image": "",
         "about": "OOD - Shapes Photo Album [description]",
-        "tech": ["Object-Oriented Design", "Model-View-Controller Architecture"],
+        "tech": ["Java", "Object-Oriented Design", "Model-View-Controller Architecture",
+            "Java Swing", "HTML", "SVG"],
         "github": "https://github.com/MaceeQi/Shapes-Photo-Album",
         "demo": ""
     },
@@ -76,7 +83,7 @@
         "name": "Sliding Puzzle Game",
         "image": "",
         "about": "Intensive Foundations of CS - Sliding Puzzle Game [description]",
-        "tech": ["Python"],
+        "tech": ["Python", "Python Turtle", "Object-Oriented Design"],
         "github": "https://github.com/MaceeQi/Sliding-Puzzle-Game",
         "demo": ""
     }

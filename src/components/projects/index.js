@@ -8,7 +8,7 @@ const ProjectsComponent = () => {
                 projects.map((project, index) => {
                     return (
                         <div className={`d-flex ${index % 2 == 0 ? "flex-row" : "flex-row-reverse"} 
-                                         mt-4 mb-4 p-4 align-items-center`}>
+                                         p-4 pt-5 pb-5 align-items-center border-bottom border-opacity-10`}>
                             {/* Project image */}
                             <div>
                                 <img src={`/images/${project.image}`}
