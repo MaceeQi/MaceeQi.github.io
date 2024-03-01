@@ -2,7 +2,7 @@
     {
         "name": "A Comparative Study of Image Classification Techniques",
         "image": "ai-image-classification.jpg",
-        "about": "Foundations of AI - Image Classification [description]",
+        "about": "",
         "tech": ["Python", "Logistic Regression", "Multi-Layer Perceptron (MLP)",
             "Artificial Intelligence", "Supervised Learning", "Image Classification", 
             "Datasets"],
@@ -12,15 +12,15 @@
     {
         "name": "Synthesis Mobile App",
         "image": "synthesis.jpg",
-        "about": "iOS Development - Synthesis App [description]",
+        "about": "",
         "tech": ["Swift", "Xcode", "iOS Development"],
         "github": "https://github.com/MaceeQi/synthesis",
-        "demo": ""
+        "demo": "https://youtu.be/l2mCWHgl8vA"
     },
     {
         "name": "Jade Palace Restaurant & Lounge Website",
         "image": "jadepalace2.jpg",
-        "about": "Personal - JP Website [description]",
+        "about": "",
         "tech": ["JavaScript", "React.js", "HTML", "CSS", "Bootstrap", 
             "Web Development", "Single Page Application"],
         "github": "https://github.com/MaceeQi/jpwebsite-react-web-app",
@@ -28,16 +28,16 @@
     },
     {
         "name": "GoalForIt! Mobile App",
-        "image": "",
-        "about": "Mobile App Development - GoalForIt! App [description]",
+        "image": "goalforit.png",
+        "about": "",
         "tech": ["Java", "Android", "Firebase Realtime Database", "Figma"],
         "github": "https://github.com/MaceeQi/NUMAD23Sp_Team16",
-        "demo": ""
+        "demo": "https://youtu.be/qVd11FelVMM"
     },
     {
         "name": "Community Rental Database",
         "image": "",
-        "about": "DBMS - Community Rental Database [description]",
+        "about": "",
         "tech": ["SQL", "Python", "Database Schema", "Database Programming Objects (DPO)"],
         "github": "https://github.com/MaceeQi/community-rental",
         "demo": ""
@@ -45,7 +45,7 @@
     {
         "name": "RecipeFridge Web App",
         "image": "",
-        "about": "Web Dev - RecipeFridge Web App [description]",
+        "about": "",
         "tech": ["JavaScript", "HTML", "CSS", "React.js", "Bootstrap", "Node.js", 
             "Express.js", "MongoDB", "RESTful API", "Third-Party API", "Postman", 
             "Figma", "Full-Stack", "Single Page Application"],
@@ -55,7 +55,7 @@
     {
         "name": "Tuiter Web App",
         "image": "",
-        "about": "FSE - Tuiter Web App [description]",
+        "about": "",
         "tech": ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", 
             "RESTful API", "Postman", "Figma", "Software Engineering", "JIRA", 
             "Agile Scrum"],
@@ -65,7 +65,7 @@
     {
         "name": "Mini-Shell",
         "image": "",
-        "about": "Data Structures, Algo, Computer Systems - Mini-shell [description]",
+        "about": "",
         "tech": ["C"],
         "github": "",
         "demo": ""
@@ -73,7 +73,7 @@
     {
         "name": "Shapes Photo Album",
         "image": "",
-        "about": "OOD - Shapes Photo Album [description]",
+        "about": "",
         "tech": ["Java", "Object-Oriented Design", "Model-View-Controller Architecture",
             "Java Swing", "HTML", "SVG"],
         "github": "https://github.com/MaceeQi/Shapes-Photo-Album",
@@ -82,7 +82,7 @@
     {
         "name": "Sliding Puzzle Game",
         "image": "",
-        "about": "Intensive Foundations of CS - Sliding Puzzle Game [description]",
+        "about": "",
         "tech": ["Python", "Python Turtle", "Object-Oriented Design"],
         "github": "https://github.com/MaceeQi/Sliding-Puzzle-Game",
         "demo": ""
