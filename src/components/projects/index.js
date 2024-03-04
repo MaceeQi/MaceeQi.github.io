@@ -40,15 +40,38 @@ const ProjectsComponent = () => {
                                 {/* links */}
                                 <div className="d-flex justify-content-center align-items-center">
                                     {/* demo */}
-                                    <a href={project.demo} className="fs-4 m-3 mq-default-fg mq-underline">
+                                    <a href={project.demo} className="fs-5 m-3 mq-default-fg mq-underline">
                                         {/* <i className="bi bi-youtube"></i> */}
                                         Demo
                                     </a>
                                     
                                     {/* github repo */}
-                                    <a href={project.github} className="fs-2 m-3 mq-default-fg">
-                                        <i className="bi bi-github"></i>
-                                    </a>
+                                    <div>
+                                        {
+                                            project.github.length == 1 &&
+                                            <a href={project.github} className="fs-2 m-3 mq-default-fg">
+                                                <i className="bi bi-github"></i>
+                                            </a>
+                                        }
+                                        {
+                                            project.github.length == 2 &&
+                                            <div className="d-flex flex-column ms-3">
+                                                <a href={project.github[0]} 
+                                                    className="d-flex align-items-center fs-2 ms-3 
+                                                                mq-default-fg mq-no-underline">
+                                                    <span className="fs-5 me-2">Front end:</span>
+                                                    <i className="bi bi-github"></i>
+                                                </a>
+                                                <a href={project.github[1]} 
+                                                    className="d-flex align-items-center fs-2 ms-3 
+                                                                mq-default-fg mq-no-underline">
+                                                    <span className="fs-5 me-3">Back end:</span>
+                                                    <i className="bi bi-github"></i>
+                                                </a>
+                                            </div>
+                                        }
+                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>

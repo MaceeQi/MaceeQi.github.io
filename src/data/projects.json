@@ -6,7 +6,7 @@
         "tech": ["Python", "Logistic Regression", "Multi-Layer Perceptron (MLP)",
             "Artificial Intelligence", "Supervised Learning", "Image Classification", 
             "Datasets"],
-        "github": "https://github.com/MaceeQi/cs5100-project",
+        "github": ["https://github.com/MaceeQi/cs5100-project"],
         "demo": "https://drive.google.com/file/d/1LxWq4plrcRpMKpUfcq1WPBZ_mTvAnNBG/view?usp=sharing"
     },
     {
@@ -14,7 +14,7 @@
         "image": "synthesis.jpg",
         "about": "",
         "tech": ["Swift", "Xcode", "iOS Development"],
-        "github": "https://github.com/MaceeQi/synthesis",
+        "github": ["https://github.com/MaceeQi/synthesis"],
         "demo": "https://youtu.be/l2mCWHgl8vA"
     },
     {
@@ -23,7 +23,7 @@
         "about": "",
         "tech": ["JavaScript", "React.js", "HTML", "CSS", "Bootstrap", 
             "Web Development", "Single Page Application"],
-        "github": "https://github.com/MaceeQi/jpwebsite-react-web-app",
+        "github": ["https://github.com/MaceeQi/jpwebsite-react-web-app"],
         "demo": ""
     },
     {
@@ -31,16 +31,16 @@
         "image": "goalforit.png",
         "about": "",
         "tech": ["Java", "Android", "Firebase Realtime Database", "Figma"],
-        "github": "https://github.com/MaceeQi/NUMAD23Sp_Team16",
+        "github": ["https://github.com/MaceeQi/NUMAD23Sp_Team16"],
         "demo": "https://youtu.be/qVd11FelVMM"
     },
     {
         "name": "Community Rental Database",
-        "image": "",
+        "image": "community-rental.png",
         "about": "",
         "tech": ["SQL", "Python", "Database Schema", "Database Programming Objects (DPO)"],
-        "github": "https://github.com/MaceeQi/community-rental",
-        "demo": ""
+        "github": ["https://github.com/MaceeQi/community-rental"],
+        "demo": "https://youtu.be/GiaqrH7pxZw"
     },
     {
         "name": "RecipeFridge Web App",
@@ -49,7 +49,8 @@
         "tech": ["JavaScript", "HTML", "CSS", "React.js", "Bootstrap", "Node.js", 
             "Express.js", "MongoDB", "RESTful API", "Third-Party API", "Postman", 
             "Figma", "Full-Stack", "Single Page Application"],
-        "github": "https://github.com/MaceeQi/RecipeFridge-node-server-app",
+        "github": ["https://github.com/MaceeQi/RecipeFridge-react-web-app",
+             "https://github.com/MaceeQi/RecipeFridge-node-server-app"],
         "demo": ""
     },
     {
@@ -59,7 +60,8 @@
         "tech": ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", 
             "RESTful API", "Postman", "Figma", "Software Engineering", "JIRA", 
             "Agile Scrum"],
-        "github": "https://github.com/MaceeQi/fse-final-project-node",
+        "github": ["https://github.com/MaceeQi/fse-final-project-react",
+            "https://github.com/MaceeQi/fse-final-project-node"],
         "demo": ""
     },
     {
@@ -67,7 +69,7 @@
         "image": "",
         "about": "",
         "tech": ["C"],
-        "github": "",
+        "github": [""],
         "demo": ""
     },
     {
@@ -76,7 +78,7 @@
         "about": "",
         "tech": ["Java", "Object-Oriented Design", "Model-View-Controller Architecture",
             "Java Swing", "HTML", "SVG"],
-        "github": "https://github.com/MaceeQi/Shapes-Photo-Album",
+        "github": ["https://github.com/MaceeQi/Shapes-Photo-Album"],
         "demo": ""
     },
     {
@@ -84,7 +86,7 @@
         "image": "",
         "about": "",
         "tech": ["Python", "Python Turtle", "Object-Oriented Design"],
-        "github": "https://github.com/MaceeQi/Sliding-Puzzle-Game",
+        "github": ["https://github.com/MaceeQi/Sliding-Puzzle-Game"],
         "demo": ""
     }
 ]       
