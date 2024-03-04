@@ -83,10 +83,10 @@
     },
     {
         "name": "Sliding Puzzle Game",
-        "image": "",
+        "image": "sliding-puzzle-game-unscrambled.png",
         "about": "",
         "tech": ["Python", "Python Turtle", "Object-Oriented Design"],
-        "github": ["https://github.com/MaceeQi/Sliding-Puzzle-Game"],
+        "github": ["https://github.com/MaceeQi/sliding-puzzle-game"],
         "demo": ""
     }
 ]       
