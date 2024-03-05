@@ -40,10 +40,13 @@ const ProjectsComponent = () => {
                                 {/* links */}
                                 <div className="d-flex justify-content-center align-items-center">
                                     {/* demo */}
-                                    <a href={project.demo} className="fs-5 m-3 mq-default-fg mq-underline">
-                                        {/* <i className="bi bi-youtube"></i> */}
-                                        Demo
-                                    </a>
+                                    {
+                                        project.demo != "" &&
+                                        <a href={project.demo} className="fs-5 m-3 mq-default-fg mq-underline">
+                                            {/* <i className="bi bi-youtube"></i> */}
+                                            Demo
+                                        </a>
+                                    }
                                     
                                     {/* github repo */}
                                     <div>
