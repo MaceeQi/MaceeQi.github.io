@@ -4,6 +4,10 @@ import "./index.css";
 const ProjectsComponent = () => {
     return(
         <div className="mt-2">
+            <div>
+                * Some linked repos may be private - send me a message
+                and I'd be happy to share them with you
+            </div>
             {
                 projects.map((project, index) => {
                     return (

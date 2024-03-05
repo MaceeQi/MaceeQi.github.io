@@ -74,12 +74,12 @@
     },
     {
         "name": "Shapes Photo Album",
-        "image": "",
+        "image": "shapes-photo-album-graphical.png",
         "about": "",
         "tech": ["Java", "Object-Oriented Design", "Model-View-Controller Architecture",
             "Java Swing", "HTML", "SVG"],
         "github": ["https://github.com/MaceeQi/Shapes-Photo-Album"],
-        "demo": ""
+        "demo": "https://youtu.be/wBtsZMIKW3s"
     },
     {
         "name": "Sliding Puzzle Game",
