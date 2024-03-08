@@ -44,7 +44,7 @@
     },
     {
         "name": "RecipeFridge Web App",
-        "image": "recipe-fridge2.png",
+        "image": "recipe-fridge1.png",
         "about": "",
         "tech": ["JavaScript", "HTML", "CSS", "React.js", "Bootstrap", "Node.js", 
             "Express.js", "MongoDB", "RESTful API", "Third-Party API", "Postman", 
