@@ -15,8 +15,7 @@ const ProjectsComponent = () => {
                                          p-4 pt-5 pb-5 align-items-center border-bottom
                                          flex-wrap align-content-center`}>
                             {/* Project info */}
-                            <div className={`${index % 2 == 1 ? "ps-3 pe-3" : ""} flex-fill
-                                            mq-project-info`}>
+                            <div className="ps-3 pe-3 flex-fill mq-project-info">
                                 {/* title */}
                                 <h3 className="fw-bold text-center mt-3 mb-5">
                                     {project.name}
