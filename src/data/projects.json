@@ -44,7 +44,7 @@
     },
     {
         "name": "RecipeFridge Web App",
-        "image": "recipe-fridge.png",
+        "image": "recipe-fridge2.png",
         "about": "",
         "tech": ["JavaScript", "HTML", "CSS", "React.js", "Bootstrap", "Node.js", 
             "Express.js", "MongoDB", "RESTful API", "Third-Party API", "Postman", 
@@ -70,7 +70,7 @@
         "about": "",
         "tech": ["C", "Command Line Interface (CLI)"],
         "github": ["https://github.com/MaceeQi/mini-shell"],
-        "demo": ""
+        "demo": "https://youtu.be/BY62wnekDAk"
     },
     {
         "name": "Shapes Photo Album",
