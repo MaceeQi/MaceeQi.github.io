@@ -11,18 +11,14 @@ const ProjectsComponent = () => {
             {
                 projects.map((project, index) => {
                     return (
-                        <div className={`d-flex ${index % 2 == 0 ? "flex-row" : "flex-row-reverse"} 
-                                         p-4 pt-5 pb-5 align-items-center border-bottom`}>
-                            {/* Project image */}
-                            <div>
-                                <img src={`/images/${project.image}`}
-                                     className="mq-project-image"/>
-                            </div>
-
+                        <div className={`d-flex ${index % 2 == 1 ? "flex-row" : "flex-row-reverse"} 
+                                         p-4 pt-5 pb-5 align-items-center border-bottom
+                                         flex-wrap align-content-center`}>
                             {/* Project info */}
-                            <div className={`${index % 2 == 0 ? "ms-5" : ""} flex-fill`}>
+                            <div className={`${index % 2 == 1 ? "ps-3 pe-3" : ""} flex-fill
+                                            mq-project-info`}>
                                 {/* title */}
-                                <h3 className="fw-bold text-center mb-5">
+                                <h3 className="fw-bold text-center mt-3 mb-5">
                                     {project.name}
                                 </h3>
                                 
@@ -80,6 +76,12 @@ const ProjectsComponent = () => {
                                     </div>
                                     
                                 </div>
+                            </div>
+
+                            {/* Project image */}
+                            <div className="flex-fill text-center">
+                                <img src={`/images/${project.image}`}
+                                     className="mq-project-image"/>
                             </div>
                         </div>
                     )

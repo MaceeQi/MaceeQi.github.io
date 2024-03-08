@@ -1,7 +1,11 @@
 .mq-project-image {
-    width: 550px;
+    width: 500px;
     height: 550px;
     object-fit: contain;
+}
+
+.mq-project-info {
+    width: 300px;
 }
 
 .mq-default-fg {
