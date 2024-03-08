@@ -20,7 +20,7 @@ const ProjectsComponent = () => {
                             </div>
 
                             {/* Project info */}
-                            <div className="ms-5 flex-fill">
+                            <div className={`${index % 2 == 0 ? "ms-5" : ""} flex-fill`}>
                                 {/* title */}
                                 <h3 className="fw-bold text-center mb-5">
                                     {project.name}

@@ -44,7 +44,7 @@
     },
     {
         "name": "RecipeFridge Web App",
-        "image": "",
+        "image": "recipe-fridge.png",
         "about": "",
         "tech": ["JavaScript", "HTML", "CSS", "React.js", "Bootstrap", "Node.js", 
             "Express.js", "MongoDB", "RESTful API", "Third-Party API", "Postman", 
@@ -54,8 +54,8 @@
         "demo": ""
     },
     {
-        "name": "Tuiter Web App",
-        "image": "",
+        "name": "Tuiter Web App w/ Restaurant Feature",
+        "image": "tuiter-restaurant.png",
         "about": "",
         "tech": ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", 
             "RESTful API", "Postman", "Figma", "Software Engineering", "JIRA", 
@@ -66,10 +66,10 @@
     },
     {
         "name": "Mini-Shell",
-        "image": "",
+        "image": "mini-shell.png",
         "about": "",
-        "tech": ["C"],
-        "github": [""],
+        "tech": ["C", "Command Line Interface (CLI)"],
+        "github": ["https://github.com/MaceeQi/mini-shell"],
         "demo": ""
     },
     {
