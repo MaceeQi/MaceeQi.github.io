@@ -1,4 +1,5 @@
 import experiences from "../../data/experiences.json";
+import "./index.css";
 
 const ExperienceComponent = () => {
     return(
@@ -19,36 +20,50 @@ const ExperienceComponent = () => {
         // </div>
         
         
-        <>
+        <div className="pt-3 pb-3">
             {
                 experiences.map((experience, index) => {
                     return (
-                        <div className="d-flex flex-row p-4 pt-5 pb-5 align-items-center 
-                                        border-bottom flex-wrap align-content-center">
-                            <div className="ps-3 pe-3 flex-fill mq-project-info">
-                                {/* job title */}
-                                <h3 className="fw-bold text-center mt-3 mb-5">
-                                    {experience.title}
-                                </h3>
+                        <div className="d-flex pt-5 pb-5 ps-4 pe-4 
+                                        mt-3 border-bottom fs-5 fw-medium">
+                            {/* logo */}
+                            <img className="mq-logo rounded-circle" 
+                                src={`/images/${experience.logo}`}/>
+
+                            {/* content */}
+                            <div className="ms-4 flex-fill">
+                                <div className="d-flex justify-content-between flex-wrap">
+                                    {/* job title */}
+                                    <h3 className="fw-bold"> 
+                                        {experience.title} 
+                                    </h3>
+
+                                    {/* dates */}
+                                    <span className="fw-semibold"> 
+                                        {experience.startDate} - {experience.endDate} 
+                                    </span>
+                                </div>
                                 
-                    
+                                {/* company and location */}
+                                <span className="fw-semibold">
+                                    {experience.company} - {experience.location}
+                                </span>
                                 
                                 {/* job responsibilities */}
-                                <h5>Responsibilities:</h5>
-                                <ul>
+                                <ul className="mt-3">
                                     {
                                         experience.responsibilities.map(responsibility => 
-                                            <li className="fs-5 fw-medium">{responsibility}</li>
+                                            <li>{responsibility}</li>
                                         )
                                     }
-                                </ul>             
-                            </div>
+                                </ul>  
+                            </div>                                            
                         </div>
                     )
                 })
             }
 
-        </>
+        </div>
     );
 };
 export default ExperienceComponent;

@@ -2,9 +2,55 @@
     {
         "title": "Cell Therapies Data Specialist",
         "company": "Dana-Farber Cancer Institute",
+        "logo": "dfci-logo.png",
         "location": "Boston, MA",
-        "startDate": "March 2020",
-        "endDate": "September 2021", 
-        "responsibilities": ["Data"]
+        "startDate": "Mar 2020",
+        "endDate": "Sep 2021", 
+        "responsibilities": ["field1", "field2"]
+    },
+    {
+        "title": "Medical Assistant",
+        "company": "Brigham and Women's Hospital",
+        "logo": "bwh-logo.png",
+        "location": "Boston, MA",
+        "startDate": "May 2018",
+        "endDate": "Mar 2020", 
+        "responsibilities": ["field1", "field2"]
+    },
+    {
+        "title": "Research Assistant",
+        "company": "Northeastern University",
+        "logo": "neu-cos-logo.jpg",
+        "location": "Boston, MA",
+        "startDate": "Apr 2015",
+        "endDate": "May 2018", 
+        "responsibilities": ["field1", "field2"]
+    },
+    {
+        "title": "Drug Discovery Co-op",
+        "company": "XTuit Pharmaceuticals",
+        "logo": "xtuit-logo.png",
+        "location": "Waltham, MA",
+        "startDate": "Jul 2017",
+        "endDate": "Jan 2018", 
+        "responsibilities": ["field1", "field2"]
+    },
+    {
+        "title": "Patient Service Coordinator Co-op",
+        "company": "Brigham and Women's Hospital",
+        "logo": "bwh-logo.png",
+        "location": "Boston, MA",
+        "startDate": "Jul 2016",
+        "endDate": "Dec 2016", 
+        "responsibilities": ["field1", "field2"]
+    },
+    {
+        "title": "Office Assistant",
+        "company": "Northeastern University College of Engineering",
+        "logo": "neu-coe-logo.png",
+        "location": "Boston, MA",
+        "startDate": "Jan 2015",
+        "endDate": "May 2015", 
+        "responsibilities": ["field1", "field2"]
     }
 ]
