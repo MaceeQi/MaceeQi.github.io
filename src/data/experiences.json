@@ -6,7 +6,8 @@
         "location": "Boston, MA",
         "startDate": "Mar 2020",
         "endDate": "Sep 2021", 
-        "responsibilities": ["field1", "field2"]
+        "responsibilities": ["Compiled and synthesized pre- and post-transplant clinical data to internal and external outcomes databases", 
+            "Validated data for quality and completeness, and maintained QI/QA of transplant database"]
     },
     {
         "title": "Medical Assistant",
@@ -15,7 +16,15 @@
         "location": "Boston, MA",
         "startDate": "May 2018",
         "endDate": "Mar 2020", 
-        "responsibilities": ["field1", "field2"]
+        "responsibilities": [
+            "General Surgical Specialties Department consisting of General and GI Surgery, Burn & Trauma, Endocrine Surgery, Bariatric Surgery, Colon & Rectal Surgery, and Surgical Oncology",
+            "Identified the purpose of patient visits, conducted thorough evaluations of vital signs, and meticulously reviewed and reconciled medications and allergies",
+            "Supported surgeons in minor office procedures including biopsies, endoscopies, hemorrhoid band ligations, incision and drainage of cysts and lipomas, rigid sigmoidoscopies, and suture removals",
+            "Demonstrated a commitment to patient care by creating informative brochures on various bariatric surgeries, aiming to educate patients and contribute to reduced readmission rates",
+            "Implemented standardized pre-operative weight collection procedures for bariatric surgery through a department-wide Continuous Process Improvement Project (CPIP), contributing to improved efficiency and accuracy in patient care",
+            "Managed the inventory of medications and supplies, ensuring adequate stock levels for patient care",
+            "Maintained and prepared exam rooms for patient visits, contributing to a well-organized and efficient clinical environment"
+        ]
     },
     {
         "title": "Research Assistant",
@@ -24,8 +33,15 @@
         "location": "Boston, MA",
         "startDate": "Apr 2015",
         "endDate": "May 2018", 
-        "responsibilities": ["field1", "field2"]
-    },
+        "responsibilities": ["Undergraduate research assistant in the DNA Damage Recognition and Tolerance Laboratory (Beuning Lab) at Northeastern University",
+            "Co-author of publication: The response of Escherichia coli to the alkylating agents chloroacetaldehyde and styrene oxide. Mutation Research - Genetic Toxicology and Environmental Mutagenesis",
+            "Presented research findings at local, regional, and national conferences",
+            "Led and trained a team of four in the comprehensive analysis of survival assay results, examining bacterial cell responses to alkylating agents",
+            "Identified and resolved issues in experimental protocols, both independently and collaboratively within a team",
+            "Successfully modified protocols with minimal supervision, resulting in improved efficiency and data accuracy",
+            "Effectively organized schedules for weekly meetings"
+        ]  
+        },
     {
         "title": "Drug Discovery Co-op",
         "company": "XTuit Pharmaceuticals",
