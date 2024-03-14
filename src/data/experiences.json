@@ -6,8 +6,10 @@
         "location": "Boston, MA",
         "startDate": "Mar 2020",
         "endDate": "Sep 2021", 
-        "responsibilities": ["Compiled and synthesized pre- and post-transplant clinical data to internal and external outcomes databases", 
-            "Validated data for quality and completeness, and maintained QI/QA of transplant database"]
+        "responsibilities": [
+            "Compiled and synthesized pre- and post-transplant clinical data to internal and external outcomes databases", 
+            "Validated data for quality and completeness, and maintained QI/QA of transplant database"
+        ]
     },
     {
         "title": "Medical Assistant",
@@ -17,13 +19,12 @@
         "startDate": "May 2018",
         "endDate": "Mar 2020", 
         "responsibilities": [
-            "General Surgical Specialties Department consisting of General and GI Surgery, Burn & Trauma, Endocrine Surgery, Bariatric Surgery, Colon & Rectal Surgery, and Surgical Oncology",
+            "Managed processes for pre- and post-surgical procedures for 10+ surgeons across multiple specialties and clinics",
             "Identified the purpose of patient visits, conducted thorough evaluations of vital signs, and meticulously reviewed and reconciled medications and allergies",
             "Supported surgeons in minor office procedures including biopsies, endoscopies, hemorrhoid band ligations, incision and drainage of cysts and lipomas, rigid sigmoidoscopies, and suture removals",
-            "Demonstrated a commitment to patient care by creating informative brochures on various bariatric surgeries, aiming to educate patients and contribute to reduced readmission rates",
-            "Implemented standardized pre-operative weight collection procedures for bariatric surgery through a department-wide Continuous Process Improvement Project (CPIP), contributing to improved efficiency and accuracy in patient care",
-            "Managed the inventory of medications and supplies, ensuring adequate stock levels for patient care",
-            "Maintained and prepared exam rooms for patient visits, contributing to a well-organized and efficient clinical environment"
+            "Enhanced patient education efforts by creating informative brochures on various bariatric surgeries, positively impacting patient understanding and contributing to a reduction in readmission rates",
+            "Collaborated on a Continuous Process Improvement Project (CPIP) to standardize pre-operative weight collection, resulting in improved accuracy and streamlined processes for bariatric surgery",
+            "Demonstrated effective management of inventory and facilities, enhancing the overall patient experience and optimizing operational efficiency"
         ]
     },
     {
@@ -33,7 +34,8 @@
         "location": "Boston, MA",
         "startDate": "Apr 2015",
         "endDate": "May 2018", 
-        "responsibilities": ["Undergraduate research assistant in the DNA Damage Recognition and Tolerance Laboratory (Beuning Lab) at Northeastern University",
+        "responsibilities": [
+            "Undergraduate research assistant in the DNA Damage Recognition and Tolerance Laboratory (Beuning Lab) at Northeastern University",
             "Co-author of publication: The response of Escherichia coli to the alkylating agents chloroacetaldehyde and styrene oxide. Mutation Research - Genetic Toxicology and Environmental Mutagenesis",
             "Presented research findings at local, regional, and national conferences",
             "Led and trained a team of four in the comprehensive analysis of survival assay results, examining bacterial cell responses to alkylating agents",
@@ -49,7 +51,12 @@
         "location": "Waltham, MA",
         "startDate": "Jul 2017",
         "endDate": "Jan 2018", 
-        "responsibilities": ["field1", "field2"]
+        "responsibilities": [
+            "Conducted in-depth analysis of the effects of drugs in various fibrosis and oncology rodent models",
+            "Identified mechanism of action biomarkers in liver diseases, advancing the understanding of drug mechanisms and potential therapeutic targets in liver diseases",
+            "Demonstrated adaptability by seamlessly integrating into diverse laboratory tasks, from molecular biology procedures to physiological measurements, showcasing versatility and a strong commitment to the research process",
+            "Effectively communicated complex research findings to diverse audiences within the company, including both technical and non-technical staff"
+        ]
     },
     {
         "title": "Patient Service Coordinator Co-op",
@@ -58,7 +65,12 @@
         "location": "Boston, MA",
         "startDate": "Jul 2016",
         "endDate": "Dec 2016", 
-        "responsibilities": ["field1", "field2"]
+        "responsibilities": [
+            "Maintained databases for the bariatric surgery program, ensuring accurate record-keeping and streamlined program operations",
+            "Collaborated effectively with healthcare professionals, contributing to the smooth functioning of the surgical clinic",
+            "Provided attentive and efficient patient care throughout each patient's visit with the surgeon",
+            "Applied clinical skills in patient assessment and vital sign monitoring, ensuring patients were prepared for their appointment with the surgeon"
+        ]
     },
     {
         "title": "Office Assistant",
@@ -67,6 +79,10 @@
         "location": "Boston, MA",
         "startDate": "Jan 2015",
         "endDate": "May 2015", 
-        "responsibilities": ["field1", "field2"]
+        "responsibilities": [
+            "Streamlined administrative processes, resulting in an increase in efficiency and smoother operations across multiple departments within the the College of Engineering",
+            "Organized and maintained financial records, ensuring compliance with budgetary guidelines and reducing errors in expense reporting",
+            "Resolved inquiries promptly and efficiently, ensuring a positive experience for all visitors to the office"
+        ]
     }
 ]
