@@ -22,9 +22,9 @@
         "image": "jadepalace2.jpg",
         "about": "",
         "tech": ["JavaScript", "React.js", "HTML", "CSS", "Bootstrap", 
-            "Web Development", "Single Page Application"],
+            "Web Development", "Single Page Application", "Netlify"],
         "github": ["https://github.com/MaceeQi/jpwebsite-react-web-app"],
-        "demo": ""
+        "demo": "https://youtu.be/0aRvq1ZXw2s"
     },
     {
         "name": "GoalForIt! Mobile App",
