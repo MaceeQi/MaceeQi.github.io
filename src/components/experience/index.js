@@ -34,7 +34,7 @@ const ExperienceComponent = () => {
                             <div className="ms-4 flex-fill">
                                 <div className="d-flex justify-content-between flex-wrap">
                                     {/* job title */}
-                                    <h3 className="fw-bold"> 
+                                    <h3 className="fw-bold me-1"> 
                                         {experience.title} 
                                     </h3>
 
